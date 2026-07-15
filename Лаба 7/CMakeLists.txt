@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.30)
+project(task C)
+find_package(OpenSSL REQUIRED)
+add_executable(task des.c)
+target_link_libraries(task OpenSSL::SSL OpenSSL::Crypto)

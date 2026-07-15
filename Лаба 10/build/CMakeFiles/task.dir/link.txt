@@ -1,0 +1,1 @@
+/usr/bin/clang CMakeFiles/task.dir/main.c.o -o task  -lgmp

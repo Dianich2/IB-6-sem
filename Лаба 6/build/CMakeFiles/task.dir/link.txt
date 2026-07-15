@@ -1,0 +1,1 @@
+/usr/bin/clang CMakeFiles/task.dir/enigma.c.o -o task

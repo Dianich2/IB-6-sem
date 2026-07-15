@@ -1,0 +1,3 @@
+/mnt/c/ФИТ/Лабораторные работы/6 сем/ИБ/Лаба 4/build/CMakeFiles/task.dir
+/mnt/c/ФИТ/Лабораторные работы/6 сем/ИБ/Лаба 4/build/CMakeFiles/edit_cache.dir
+/mnt/c/ФИТ/Лабораторные работы/6 сем/ИБ/Лаба 4/build/CMakeFiles/rebuild_cache.dir

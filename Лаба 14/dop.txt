@@ -1,0 +1,11 @@
+./build/task line-embed container.txt stego_lines.html "Podshivalenko Diana Igorevna"
+./build/task line-extract stego_lines.html
+
+line-height:1.00 → бит 0
+line-height:1.25 → бит 1
+
+./build/task kern-embed container.txt stego_kern.html "Podshivalenko Diana Igorevna"
+./build/task kern-extract stego_kern.html
+
+letter-spacing:-0.03em → бит 0
+letter-spacing:0.03em  → бит 1
